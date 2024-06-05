@@ -6,9 +6,9 @@
 ### Installing Python and PhysiCell Studio
 * See README at https://github.com/rheiland/studio_template
 ### Background reading 
-* Physicell paper
+* [PhysiCell paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005991)
 * Rules paper
-* Watch video on physicell stuido .. 
+* Watch [video on PhysiCell Studio](https://www.youtube.com/watch?v=jkbPP1yDzME)
 
 ## Morning talks
 
