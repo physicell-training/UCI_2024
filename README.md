@@ -8,7 +8,7 @@
 ### Background reading 
 * [PhysiCell paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005991)
 * Rules paper
-* Watch [video on PhysiCell Studio](https://www.youtube.com/watch?v=jkbPP1yDzME)
+* Watch [video on PhysiCell Studio](https://www.youtube.com/watch?v=jkbPP1yDzME) - slightly out of date, but still very relevant
 
 ## Morning talks
 
