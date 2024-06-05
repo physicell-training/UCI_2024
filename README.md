@@ -71,4 +71,4 @@
   * anti-infl turn to 
 * add differntiatoin rules
 
-* 
+* free-for-all : fake drugs and what-if 
