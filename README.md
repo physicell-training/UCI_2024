@@ -3,9 +3,8 @@
 ## Overview 
 
 ## Preliminary mateirals and prep
-### Installing PhysiCell Studio
-* Install python - anaconda or vanil
-* https://github.com/.... 
+### Installing Python and PhysiCell Studio
+* See README at https://github.com/rheiland/studio_template
 ### Background reading 
 * Physicell paper
 * Rules paper
