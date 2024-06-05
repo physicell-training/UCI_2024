@@ -7,7 +7,7 @@
 * See README at the [studio_template](https://github.com/rheiland/studio_template)
 ### Background reading 
 * [PhysiCell paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005991)
-* Rules paper
+* [Rules paper](https://www.biorxiv.org/content/10.1101/2023.09.17.557982v3)
 * Watch [video on PhysiCell Studio](https://www.youtube.com/watch?v=jkbPP1yDzME) - slightly out of date, but still very relevant
 
 ## Morning talks
