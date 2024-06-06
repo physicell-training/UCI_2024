@@ -21,8 +21,8 @@
 ### Heber's Talk (link coming soon)
 * Overview of Digital Twins
 * Forward and inverse problem in PhysiCell models (uncertainty quantification)
- * Sensitivity Analysis
- * Calibration
+  * Sensitivity Analysis
+  * Calibration
 * Toy model: Single cell chemotaxis (Quantitative outcomes)
 * Immune surveillance in micromestatases (Qualitative outcomes)
 * Integration of macro- and micro- scales (Model selection)
