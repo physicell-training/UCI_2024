@@ -12,19 +12,24 @@
 
 ## Morning talks
 
-### Paul's Talk
+### Paul's Talk (link coming soon)
 * intro to ABM
 * signals and behaviors
 * grammar
 * examples 
 
-### Heber's Talk 
-* notion of workflows
-* 
+### Heber's Talk (link coming soon)
+* Overview of Digital Twins
+* Forward and inverse problem in PhysiCell models (uncertainty quantification)
+ * Sensitivity Analysis
+ * Calibration
+* Toy model: Single cell chemotaxis (Quantitative outcomes)
+* Immune surveillance in micromestatases (Qualitative outcomes)
+* Integration of macro- and micro- scales (Model selection)
 
 ## Hands-On Session
 
-###  1:00-2:45 Session 1 -- Paul 
+###  1:00-2:45 Session 1 -- Paul (link coming soon)
 * notion of modeling workflow
   * what's important? -- modeling goal and planning 
   *   identify types
@@ -46,7 +51,7 @@
 
 ###  2:45-3:15 break 
 
-### 3:00-5:00 Session 2
+### 3:00-5:00 Session 2 (link coming soon)
 * Basic model: turmo growht
 * Mechanofeedback 
 
